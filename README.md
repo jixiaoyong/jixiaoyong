@@ -20,10 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3><p align="left"> 
   
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://s3.bmp.ovh/imgs/2022/04/23/97ce58509314acd3.webp" alt="android" width="auto" height="50"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://s3.bmp.ovh/imgs/2022/04/23/145404445e75d358.webp" alt="flutter" width="auto" height="50"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://s3.bmp.ovh/imgs/2022/04/23/d26f3568e7f51be1.webp" alt="dart" width="auto" height="50"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://s3.bmp.ovh/imgs/2022/04/23/00f2c6fdf1695763.webp" alt="java" width="auto" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  <img src="https://s3.bmp.ovh/imgs/2022/04/23/5f6b77b74970f139.webp" alt="kotlin" width="auto" height="50"/> </a> </p>
+<p><img src="https://s3.bmp.ovh/imgs/2022/04/23/97ce58509314acd3.webp" alt="android" width="auto" height="70"/><img src="https://s3.bmp.ovh/imgs/2022/04/23/145404445e75d358.webp" alt="flutter" width="auto" height="75"/><img src="https://s3.bmp.ovh/imgs/2022/04/23/d26f3568e7f51be1.webp" alt="dart" width="auto" height="75"/><img src="https://s3.bmp.ovh/imgs/2022/04/23/00f2c6fdf1695763.webp" alt="java" width="auto" height="75"/><img src="https://s3.bmp.ovh/imgs/2022/04/23/5f6b77b74970f139.webp" alt="kotlin" width="auto" height="75"/></p>
 
 
 
