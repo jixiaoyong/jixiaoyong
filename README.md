@@ -9,7 +9,7 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=jixiaoyong&show_icons=true&theme=default&hide=issues,contribs" />
     </td>
     <td align="center">
-                <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jixiaoyong&hide=javascript,html,css&layout=compact" />
+                <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jixiaoyong&hide=javascript,html,css,python&layout=compact" />
     </td>
   </tr>
 </table>
