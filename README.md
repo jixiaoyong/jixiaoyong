@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Ji Xiaoyong <img src="https://img.shields.io/github/followers/jixiaoyong?style=social" /></h1>
-<h3 align="center">A developer. A man who love this world.</h3>
+<h3 align="center">A developer. A man who love the world.</h3>
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=jixiaoyong&hide_border=true&date_format=%5BY.%5Dn.j" alt="jixiaoyong" /></p>
 
 
