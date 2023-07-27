@@ -20,7 +20,7 @@
 <p align="left">
 <a href="mailto:jixiaoyong1995@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/gamil-jixiaoyong1995-31aa52?logo=Gmail" /></a>
-&nbsp<a href="https://xiaoyong.ml/" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/badge/%F0%9F%8C%90/xiaoyong.ml/cyan" /></a>
+&nbsp<a href="https://jixiaoyong.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://badgen.net/badge/%F0%9F%8C%90/jixiaoyong.github.io/cyan" /></a>
 &nbsp<a href="https://leetcode.com/jixiaoyong/" target="_blank" rel="noopener noreferrer">
 &nbsp<img src="https://img.shields.io/badge/LeetCode-jixiaoyong-ffa725?logo=LeetCode" /></a> 
 &nbsp<img src="https://komarev.com/ghpvc/?username=jixiaoyong&label=Profile%20views&color=0e75b6&style=flat" alt="jixiaoyong" />
